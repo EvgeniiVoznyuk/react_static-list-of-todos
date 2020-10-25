@@ -1,0 +1,2 @@
+*{box-sizing:border-box}body{margin:0}.title{text-align:center;padding:20px}.app__task{display:flex;justify-content:space-between;padding:30px}.app__title{cursor:pointer;width:320px;transition:transform .5s}.app__title:hover{transform:scale(1.1)}.app__completed{color:green}.app__not-completed{color:red}
+/*# sourceMappingURL=main.70d326db.chunk.css.map */
